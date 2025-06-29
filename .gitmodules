@@ -1,0 +1,12 @@
+[submodule "b3bridge-smartcontract-evm"]
+	path = b3bridge-smartcontract-evm
+	url = https://github.com/Bamboo-Software/b3bridge-smartcontract-evm.git
+[submodule "b3bridge-smartcontract-cosmos"]
+	path = b3bridge-smartcontract-cosmos
+	url = https://github.com/Bamboo-Software/b3bridge-smartcontract-cosmos.git
+[submodule "b3bridge-validator"]
+	path = b3bridge-validator
+	url = https://github.com/Bamboo-Software/b3bridge-validator.git
+[submodule "b3bridge-frontend"]
+	path = b3bridge-frontend
+	url = https://github.com/Bamboo-Software/b3bridge-frontend.git
